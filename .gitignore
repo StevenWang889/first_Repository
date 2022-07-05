@@ -1,2 +1,4 @@
-#忽略test文件夹下所有文件
-test/
+# 忽略 test1
+test1.txt
+# 忽略 one目录所有文件
+one/
